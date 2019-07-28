@@ -1,0 +1,7 @@
+Eu estou estudando na geek university e estou aprendendo python essencial.
+outro texto, segunda linha
+estou aprendendo a trabalhar com arquivos
+teste leitura de arquivos em python
+outras coisas
+novamente textos
+teste teste teste
